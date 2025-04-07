@@ -18,9 +18,9 @@
     * [第五节  可歌可泣的北伐](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-5.md)
     * [第六节  西征和天京外围的奋战](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-6.md)
     * [第七节 天京事变](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-7.md)
-* [困知二录]
-  * [序]
-  * [目录]
+* [困知二录](./bookcase/kun-zhi-er-lu.md)
+  * [序](./bookcase/kun-zhi-er-lu/xu.md)
+  * [目录](./bookcase/kun-zhi-er-lu/mu-lu.md)
   * [孔墨显学对立的阶级和逻辑意义]
   * [宋元明哲学思想中的几个问题]
   * [《汉书·艺文志》《诸子略》柬释]
@@ -36,7 +36,7 @@
   * [《论语》“权”字义疏 ————《中国权说史略》第二章初稿]
   * [高拱权说辩证]
   * [《论语新论》导言]
-  * [逻辑学的法则]
+  * [逻辑学的法则](./bookcase/kun-zhi-er-lu/luo-ji-xue-de-fa-ze.md)
   * [近代哲学史著作方法论料简]
   * [中国哲学史方法论答问之一]
   * [中国哲学史方法论答问之二]
