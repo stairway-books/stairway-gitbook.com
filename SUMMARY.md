@@ -17,17 +17,4 @@
     * [第四节  各地起义响应](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-4.md)
     * [第五节  可歌可泣的北伐](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-5.md)
     * [第六节  西征和天京外围的奋战](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-6.md)
-
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+    * [第七节 天京事变](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-7.md)
