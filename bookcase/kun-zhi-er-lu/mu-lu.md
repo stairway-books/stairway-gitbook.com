@@ -15,10 +15,10 @@
 [《论语》“权”字义疏 ————《中国权说史略》第二章初稿]
 [高拱权说辩证]
 [《论语新论》导言]
-[逻辑学的法则]
+[逻辑学的法则](luo-ji-xue-de-fa-ze.md)
 [近代哲学史著作方法论料简]
-[中国哲学史方法论答问之一]
-[中国哲学史方法论答问之二]
-[中国哲学史方法论答问之三]
+[中国哲学史方法论答问之一](zhong-guo-zhe-xue-shi-fang-fa-lun-da-wen-zhi-yi.md)
+[中国哲学史方法论答问之二](zhong-guo-zhe-xue-shi-fang-fa-lun-da-wen-zhi-er.md)
+[中国哲学史方法论答问之三](zhong-guo-zhe-xue-shi-fang-fa-lun-da-wen-zhi-san.md)
 [谈谈批判地继承经学遗产]
 [哲学史方法论断想 ——从春秋的“人”的概念看孔子“仁”的思想实质]
