@@ -13,12 +13,12 @@
 * [第五节  可歌可泣的北伐](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-5.md)
 * [第六节  西征和天京外围的奋战](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-6.md)
 * [第七节 天京事变](./bookcase/tai-ping-tian-guo-yun-dong-shi/chapter-2/section-7.md)
-* 第八节  重振力量，稳定西线
-* 第九节  东线凯歌
-* 第十节　安庆保卫战
-* 第十一节  反对外国武装干涉
-* 第十二节  天京的陷落
-* 第十三节  战斗到最后
+* [第八节  重振力量，稳定西线](chapter-2/section-8.md)
+* [第九节  东线凯歌](chapter-2/section-9.md)
+* [第十节　安庆保卫战](chapter-2/section-10.md)
+* [第十一节  反对外国武装干涉](chapter-2/section-11.md)
+* [第十二节  天京的陷落](chapter-2/section-12.md)
+* [第十三节  战斗到最后](chapter-2/section-13.md)
 
 [第三章  理想和实践](chapter-3.md)
 * 第一节  小生产者的理想社会
