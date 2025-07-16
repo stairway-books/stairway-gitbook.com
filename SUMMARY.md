@@ -55,3 +55,4 @@
   * [出版序言](bookcase/tong-zhi-nian-jian-shan-xi-hui-min-qi-yi-li-shi-diao-cha-ji-lu/chu-ban-xu-yan.md)
   * [序言](bookcase/tong-zhi-nian-jian-shan-xi-hui-min-qi-yi-li-shi-diao-cha-ji-lu/xu-yan.md)
   * [一、渭南县调查记录](bookcase/tong-zhi-nian-jian-shan-xi-hui-min-qi-yi-li-shi-diao-cha-ji-lu/chapter-1.md)
+* [论语新探](bookcase/lun-yu-xin-tan.md)
